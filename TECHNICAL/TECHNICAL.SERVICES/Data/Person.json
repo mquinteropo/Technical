@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Miguel Angel",
+    "age": 18,
+    "type": {
+      "type": 1,
+      "description": "Teacher"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "age": 44,
+    "type": {
+      "type": 2,
+      "description": "Student"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Carlos",
+    "age": 22,
+    "type": {
+      "type": 2,
+      "description": "Student"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Maria",
+    "age": 55,
+    "type": {
+      "type": 1,
+      "description": "Teacher"
+    }
+  }
+]

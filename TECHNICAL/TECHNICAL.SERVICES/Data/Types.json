@@ -1,0 +1,10 @@
+[
+  {
+    "type": 1,
+    "description": "Teacher"
+  },
+  {
+    "type": 2,
+    "description": "Student"
+  }
+]

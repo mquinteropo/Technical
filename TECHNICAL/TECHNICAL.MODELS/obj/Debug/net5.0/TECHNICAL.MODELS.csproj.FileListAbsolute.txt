@@ -1,0 +1,12 @@
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\bin\Debug\net5.0\TECHNICAL.MODELS.deps.json
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\bin\Debug\net5.0\TECHNICAL.MODELS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\bin\Debug\net5.0\ref\TECHNICAL.MODELS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\bin\Debug\net5.0\TECHNICAL.MODELS.pdb
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.AssemblyInfo.cs
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\ref\TECHNICAL.MODELS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.pdb
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.MODELS\obj\Debug\net5.0\TECHNICAL.MODELS.csproj.AssemblyReference.cache

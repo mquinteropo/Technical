@@ -1,0 +1,14 @@
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\TECHNICAL.BUSINESS.deps.json
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\TECHNICAL.BUSINESS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\ref\TECHNICAL.BUSINESS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\TECHNICAL.BUSINESS.pdb
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\TECHNICAL.MODELS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\bin\Debug\net5.0\TECHNICAL.MODELS.pdb
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.AssemblyInfo.cs
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\ref\TECHNICAL.BUSINESS.dll
+C:\Users\Pc\source\repos\TECHNICAL\TECHNICAL.BUSINESS\obj\Debug\net5.0\TECHNICAL.BUSINESS.pdb
